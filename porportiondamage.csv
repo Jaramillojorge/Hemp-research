@@ -1,0 +1,77 @@
+﻿farm,hemp_type,week,Insect_damage,total_pants,proportion_damaged_plants
+Cedar Meadow Farm,Fiber,1,18,20,0.9
+Cedar Meadow Farm,Fiber,2,18,20,0.9
+Cedar Meadow Farm,Fiber,3,19,20,0.95
+Cedar Meadow Farm,Fiber,4,9,20,0.45
+Cedar Meadow Farm,Fiber,5,18,20,0.9
+Cedar Meadow Farm,Fiber,6,19,20,0.95
+Cedar Meadow Farm,Fiber,7,19,20,0.95
+Cedar Meadow Farm,Fiber,8,10,10,1
+Cedar Meadow Farm,Fiber,9,15,15,1
+Cedar Meadow Farm,Fiber,10,15,15,1
+Coexist,Fiber,1,15,20,0.75
+Coexist,Fiber,2,6,14,0.428571429
+Coexist,Fiber,3,4,15,0.266666667
+Coexist,Fiber,4,10,15,0.666666667
+Coexist,Fiber,5,9,15,0.6
+Coexist,Fiber,6,9,15,0.6
+Coexist,Fiber,7,11,15,0.733333333
+SEAREC,Fiber,1,7,15,0.466666667
+SEAREC,Fiber,2,8,15,0.533333333
+SEAREC,Fiber,3,14,15,0.933333333
+SEAREC,Fiber,4,11,15,0.733333333
+SEAREC,Fiber,5,10,15,0.666666667
+SEAREC,Fiber,6,12,15,0.8
+SEAREC,Fiber,7,11,15,0.733333333
+SEAREC,Fiber,8,12,15,0.8
+SEAREC,Fiber,9,11,15,0.733333333
+Rock Springs/fiber,Fiber,1,2,15,0.133333333
+Rock Springs/fiber,Fiber,2,5,15,0.333333333
+Rock Springs/fiber,Fiber,3,8,15,0.533333333
+Rock Springs/fiber,Fiber,4,10,15,0.666666667
+Rock Springs/fiber,Fiber,5,10,15,0.666666667
+Rock Springs/fiber,Fiber,6,10,15,0.666666667
+Rock Springs/fiber,Fiber,7,9,15,0.6
+Rock Springs/fiber,Fiber,8,5,15,0.333333333
+Rock Springs/fiber,Fiber,9,8,15,0.533333333
+Rock Springs/fiber,Fiber,10,10,15,0.666666667
+Rock Springs/CBD,CBD,1,1,14,0.071428571
+Rock Springs/CBD,CBD,2,7,15,0.466666667
+Rock Springs/CBD,CBD,3,12,15,0.8
+Rock Springs/CBD,CBD,4,13,15,0.866666667
+Rock Springs/CBD,CBD,5,15,15,1
+Rock Springs/CBD,CBD,6,14,15,0.933333333
+Rock Springs/CBD,CBD,7,15,15,1
+Rock Springs/CBD,CBD,8,15,15,1
+Rock Springs/CBD,CBD,9,13,15,0.866666667
+Rock Springs/CBD,CBD,10,15,15,1
+Rock Springs/CBD,CBD,11,15,15,1
+Rock Springs/CBD,CBD,12,12,15,0.8
+Rock Springs/CBD,CBD,13,15,15,1
+Rock Springs/CBD,CBD,14,15,15,1
+Rock Springs/CBD,CBD,15,15,15,1
+Shaffer Farm,CBD,1,5,15,0.333333333
+Shaffer Farm,CBD,2,12,15,0.8
+Shaffer Farm,CBD,3,12,15,0.8
+Shaffer Farm,CBD,4,14,15,0.933333333
+Shaffer Farm,CBD,5,13,15,0.866666667
+Shaffer Farm,CBD,6,13,15,0.866666667
+Shaffer Farm,CBD,7,15,15,1
+Shaffer Farm,CBD,8,13,15,0.866666667
+Shaffer Farm,CBD,9,13,15,0.866666667
+Shaffer Farm,CBD,10,13,15,0.866666667
+Shaffer Farm,CBD,11,11,15,0.733333333
+Lazy Moon,CBD,1,10,15,0.666666667
+Lazy Moon,CBD,2,12,15,0.8
+Lazy Moon,CBD,3,10,15,0.666666667
+Lazy Moon,CBD,4,12,15,0.8
+Lazy Moon,CBD,5,13,15,0.866666667
+Lazy Moon,CBD,6,14,15,0.933333333
+Lazy Moon,CBD,7,15,15,1
+Lazy Moon,CBD,8,13,15,0.866666667
+Lazy Moon,CBD,9,14,15,0.933333333
+Lazy Moon,CBD,10,13,15,0.866666667
+Lazy Moon,CBD,11,14,15,0.933333333
+Lazy Moon,CBD,12,15,15,1
+Lazy Moon,CBD,13,15,15,1
+Lazy Moon,CBD,14,15,15,1
